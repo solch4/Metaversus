@@ -28,7 +28,7 @@ const World = () => (
         variants={fadeIn('up', 'tween', 0.3, 1)}
         className='relative mt-[68px] flex w-full'
       >
-        <img src="/map.png" alt="map" className="w-full h-full object-contain" />
+        <img src="/map.png" alt="map" className="w-[1170px] h-[525px] object-contain mx-auto" />
         <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img
             src="/people-01.png"
