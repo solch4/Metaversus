@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Modern Next 13 Website built with With Framer Motion & Tailwind CSS
 
-## Getting Started
+This project is a modern website with animated transitions to practice Next.JS 13, Tailwind CSS and Framer Motion.
 
-First, run the development server:
+## Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+https://user-images.githubusercontent.com/101352684/217412261-f744ae8b-63d1-4ffc-bf16-2c1024b562e2.mp4
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The challenge
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+While developing this app, you'll learn the following:
+- React project architecture and Clean Code best practices
+- Next13 application structure
+- Fundamental CSS properties to master flex using Tailwind CSS
+- From soft and pleasant animations to complex gradients using Framer Motion
+- Perfectly placed media queries for satisfactory responsiveness covering almost all devices
+- Finally, you'll learn how to deploy your website to extremely fast servers and give it a custom domain name.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Link
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Live Site URL: https://metaversus-solch4.vercel.app/
 
-## Learn More
+## Built with
 
-To learn more about Next.js, take a look at the following resources:
+- [Next.JS](https://nextjs.org/) - React framework
+- [Tailwind](https://tailwindcss.com/) - CSS framework
+- [Framer motion](https://www.framer.com/motion/) - React animation library
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tutorial
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://www.youtube.com/watch?v=ugCN_gynFYw)
 
-## Deploy on Vercel
+## Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GitHub - [@solch4](https://github.com/solch4/)
+- LinkedIn - [Sol Maldonado](https://www.linkedin.com/in/sol-maldonado-fullstack/)
